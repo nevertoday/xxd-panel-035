@@ -44,11 +44,20 @@ XXD Panel 035 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **安静陈列背景：** 一个必要底座、平面或阴影承托主体，浅色低信息背景与留白让主体成为绝对焦点。
 - **克制模块文字：** 目标语言像素、模块或说明书式排版对齐剪影、底座、拼缝、模块节奏或留白。
 
-## 样张 · 即将补充
+## 样张 · 来自 X
 
-项目已预留 [`assets/examples/`](assets/examples/) 样张目录。只有经项目作者确认、确实使用 035 完成的作品才会加入；在此之前不借用其他风格的推文或图片作为占位。
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090724386001015097) · 2026-08-21<br>
+> GPT2 x 乐高 x 转绘 x 美学提示词 x VOL.035
 
-未来样张只用于展示 035 对不同题材的适应力，不会把样张主体、留白比例、配色、文案或画幅变成生成参考或默认值。
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090724386001015097"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 035 样张 1"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090724386001015097">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 035 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 四种输出共享同一套高级积木艺术系统
 
