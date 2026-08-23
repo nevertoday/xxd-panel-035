@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 035"
+  short_description: "Create vivid premium voxel-block collectibles."
+  default_prompt: "Use $xxd-panel-035 to rebuild my photograph as one recognisable LEGO/Minecraft-like modular collectible with vivid source-derived colours, credible matte ABS material, clear seams and contact shadows, a quiet low-information background, generous whitespace, and restrained native modular typography; ask first for modes and copy or locale preferences."
