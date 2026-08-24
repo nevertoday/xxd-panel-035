@@ -37,7 +37,18 @@ Vivid source-derived colour, credible matte ABS plastic, visible seams, stepped 
 
 These samples demonstrate the 035 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 035 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Rebuild the photograph as one vivid premium voxel-block collectible |
+| **Recognizable signature** | ONE BLOCK SUBJECT · VIVID SOURCE COLOUR · MATTE ABS · QUIET FIELD · MODULAR TYPE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 “LEGO/Minecraft style” easily collapses into a complex game world, generic character asset, loose-brick floor, glossy CGI toy render, or childish interface.
 
@@ -49,7 +60,7 @@ lock identity / action / function / relation → preserve at least three source 
 
 If an unrelated photograph could replace the source without materially changing the block silhouette, modular hierarchy, local exaggeration, colour identity, seam placement, base relation, or typography, the result is not 035.
 
-## The 035 visual contract
+## What makes the finished style recognizable
 
 - **Source identity:** at least three specific cues preserve contour, pose, direction, proportion, opening, overlap, distance, and relation.
 - **One recognisable block subject:** silhouette, pose, direction, function, opening, overlap, proportion, colour, and relation preserve at least three source cues.
