@@ -1,44 +1,79 @@
-# XXD Panel 035 | Vivid Voxel-Block Collectible Production Prompt
+# XXD Panel 035 | Runtime Adapter (English)
 
-## Runtime complete-canvas contract — highest priority
+This is not a second aesthetic prompt. Read and use `references/035-source.md` in full and verbatim before generation; it is the sole creative and aesthetic authority for Panel 035. This file only appends the current user's runtime variables.
 
-- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
-- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
-- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
-- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
-- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+## Non-authoring boundary
 
-### Model priority and credentials
+- Do not summarize, translate, expand, polish, or “improve” the source brief.
+- Do not add a palette plan, material plan, composition theory, whitespace rule, title, microcopy package, or aesthetic motive.
+- Preserve the source brief's own colour behaviour exactly, whether it derives colour from the photograph or specifies a fixed family.
+- Let the image model execute the source brief's existing text logic. The outer Skill does not pre-write copy.
+- Current modes and sizes override only the legacy 3:4 top-bottom container, never the remaining aesthetic rules.
 
-- **Prefer GPT Image 2.** When GPT Image 2 is available through the current built-in image tool or a configured compatible route, use it first for the high-fidelity reference/edit and complete-canvas generation required by this prompt.
-- Also support Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model only when the actual route can preserve the source, realise the whole finished canvas, render the target-language text, and accept the multiple references needed by a linked wallpaper pack.
-- An alternative model changes only the generation route. It must not change this prompt's modes, canvas, source visibility, copy, locale, wallpaper relationship, or complete-canvas-first / composition-fallback-only logic. Do not silently downgrade a hard requirement.
-- If no suitable route is available, ask the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task, but never echo, display, log, or expose their value in chat, prompts, or diagnostics. Do not persist them or modify global route configuration unless explicitly requested.
-- Judge availability by actual image capability, not by a provider name or one missing environment variable.
+## Append-only runtime template
 
-Process only the one source photograph explicitly supplied for this task. Lock the principal subject or inseparable relation, contour, proportion, pose, direction, action, function, openings, overlaps, relational distance, and colour identity. Preserve at least three source-specific cues. Never borrow block silhouettes, colour kits, module layouts, bases, props, typography, or environments from old outputs or another input.
+```text
+RUNTIME OVERRIDE — CURRENT DELIVERY ONLY
 
-## Rebuild one recognisable modular subject
+The original brief's initial 3:4 top-bottom arrangement is its legacy presentation container.
+For this output, override only: final canvas, source/design-region placement,
+source visibility, and device dimensions.
+Except for those container variables, every design-transformation, composition,
+colour, material, whitespace, text-character and typography instruction in the
+original brief remains authoritative.
 
-Understand identity, action, relation, and supported meaning before simplifying. Rebuild the subject as one LEGO/Minecraft-like voxel or building-block sculpture through cubic proportion, modular geometry, plausible assembly, a clean silhouette, stepped levels, visible thickness, and source-earned local exaggeration. Do not simply pixelate a cartoon or wrap a low-poly mesh around the photo. Do not force human traits onto animals, plants, buildings, vehicles, objects, or landscapes.
+Interpret “upper photo” as SOURCE REFERENCE.
+Interpret “lower half” as DESIGN REGION.
 
-Preserve at least three source cues through silhouette, pose, direction, functional part, opening, overlap, proportion, colour group, or relational distance. One subject or inseparable relation is the absolute focal point. Use only the minimal base, plane, or contact shadow needed for physical support. Reject complete Minecraft terrain, forests, castles, game worlds, unrelated props, loose-brick floors, generic characters, game screenshots, HUD, or product-packaging scenes.
+OUTPUT MODE: TOP_BOTTOM | LEFT_RIGHT | DESIGN_ONLY | WALLPAPER_PACK
+FINAL CANVAS: <ratio and/or exact WIDTHxHEIGHT>
+DEVICE PROFILE: NONE | PHONE | IPAD | DESKTOP | WATCH
+SOURCE VISIBILITY: UPPER HALF | LEFT HALF | REFERENCE ONLY — NOT VISIBLE
+DESIGN REGION: LOWER HALF | RIGHT HALF | FULL CANVAS
+PAIRED RELATION: FOLLOW THE ORIGINAL BRIEF'S PAIRED-PROPORTION RULE | NOT APPLICABLE
+WALLPAPER RELATIONSHIP: NONE | INDEPENDENT | LINKED
 
-## Vivid source colour and matte ABS material
+Colour follows the original brief's existing colour instructions exactly.
+Unless the user explicitly requests a colour change, do not add, replace,
+summarize, or re-plan any palette.
+```
 
-Extract the photograph's most recognisable and spirited colours and clarify them into high-purity, high-saturation block groups. Colours may become brighter and more energetic while preserving the source's combined identity. Control hierarchy through area, value, and module grouping. Keep the background much lighter and simpler. Reject fixed primary-colour kits, fluorescent or neon hues, candy gradients, Morandi colour, pastelisation, grey haze, muddiness, and saturation reduced merely to look tasteful.
+Append exactly one text block after the runtime block. If the user has other explicit requirements, append those verbatim after the text block at the very end.
 
-Render credible matte ABS-like plastic: smooth flat faces, restrained soft reflections, clear module seams, stepped thickness, believable joints and overlaps, and natural contact shadows. Use soft clear light that keeps colour transparent and reveals structure. Reject metal, glass, mirror gloss, extreme CGI reflections, seamless melted blobs, triangular low-poly facets, cheap game rendering, and e-commerce toy photography.
+### Text generated from the original prompt
 
-## Quiet display and restrained modular typography
+```text
+TEXT MODE: ORIGINAL_PROMPT_GENERATED
+TEXT LANGUAGE: <user-confirmed language or locale>
 
-Use a low-information background with a large pure or subtly graded field. Let the block subject feel like a premium toy-brand art object, design collectible, or modern editorial sculpture—fresh and likeable without becoming childish.
+The image model generates wording by following the original brief's existing
+text-generation logic. The outer Skill supplies no title, microcopy, copy
+package, or additional semantic framework.
+```
 
-In automatic mode derive one concise title from subject identity, action, emotion, relation, or supported meaning. Add zero to two grounded tags or micro-notes only when useful. Never invent a brand, set number, game level, product line, or technical specification. Use native modular, pixel, or instruction-manual typography aligned with the silhouette, base, block seam, module rhythm, or whitespace. Preserve exact user wording verbatim. In text-free mode retain the same sculpture, material, colour, and display logic but render no text or pseudo-text.
+### User-exact text
 
-## Mode and acceptance
+```text
+TEXT MODE: USER_EXACT
+TEXT LANGUAGE: <user-confirmed language or locale>
+TEXT: “<user's exact characters>”
 
+Use the supplied text verbatim. Do not rewrite, translate, spell-correct, or add
+any other wording. Typography and placement still follow the original brief.
+```
 
-Hard gate: at least three source cues; one recognisable block-built subject; plausible modular assembly; clean silhouette and source-earned exaggeration; vivid source-derived colour on a much lighter field; credible matte ABS, seams, thickness, joints, and contact shadows; restrained native modular typography; exact user wording; no complex Minecraft world, loose bricks, forced anthropomorphism, game HUD, generic asset, low-poly mesh, neon, pastel, metal, glass, extreme CGI, children's UI, retail packaging, mockup, or pseudo-text.
+### No text
 
-If any hard condition fails, correct the generated asset. Never fake the artwork with programmatic drawing, SVG, HTML, Canvas, 3D code, or a post-composited type overlay.
+```text
+TEXT MODE: NONE
+Render no letters, characters, numbers, titles, labels, logos, or pseudo-text anywhere.
+```
+
+See `SKILL.md` for preflight, multi-size, multi-mode, wallpaper, execution, and output rules. Every final generation request has this order:
+
+```text
+complete verbatim 035-source.md
++ current runtime override block
++ exactly one text-mode block
++ any other explicit user requirement, verbatim, at the very end
+```
