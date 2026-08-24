@@ -22,6 +22,21 @@ XXD Panel 035 is an image-generation Skill for Codex and compatible agents. It u
 
 Vivid source-derived colour, credible matte ABS plastic, visible seams, stepped thickness, natural contact shadows, one minimal base or plane, and a quiet low-information field create a premium toy-brand art object or modern design collectible rather than a game screenshot.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090724386001015097) · 2026-08-21<br>
+> GPT2 x 乐高 x 转绘 x 美学提示词 x VOL.035
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090724386001015097"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 035 sample 1"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090724386001015097">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 035 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 “LEGO/Minecraft style” easily collapses into a complex game world, generic character asset, loose-brick floor, glossy CGI toy render, or childish interface.
@@ -43,21 +58,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Credible matte ABS:** restrained plastic highlights and natural contact shadows reveal thickness without metal, glass, mirror gloss, or excessive CGI.
 - **Quiet display field:** one minimal base, plane, or shadow supports the subject while the lighter low-information background and whitespace make it absolute focus.
 - **Restrained modular type:** native pixel, modular, or instruction-manual typography aligns with silhouette, base, seam, module rhythm, or whitespace.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090724386001015097) · 2026-08-21<br>
-> GPT2 x 乐高 x 转绘 x 美学提示词 x VOL.035
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090724386001015097"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 035 sample 1"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090724386001015097">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 035 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

@@ -22,6 +22,21 @@ XXD Panel 035는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 정육면체 비례, 단계, 두께, 이음새, 결합, 겹침과 하중을 설득력 있게 만들고, 원본에서 얻은 고순도 선명한 색, 무광 ABS 질감, 절제된 반사와 조용한 밝은 배경으로 단순 픽셀화가 아닌 프리미엄 컬렉터블을 완성합니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090724386001015097) · 2026-08-21<br>
+> GPT2 x 乐高 x 转绘 x 美学提示词 x VOL.035
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090724386001015097"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 035 예시 1"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090724386001015097">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 035의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 035이 필요한가요
 
 일반적인 ‘블록 변환’은 사진을 거칠게 픽셀화한 그림, 로우폴리 면, 게임 화면, 상품 사진 또는 주체와 무관한 고정 원색 세트로 쉽게 무너집니다.
@@ -43,21 +58,6 @@ XXD Panel 035는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **무광 ABS 물성:** 절제된 부드러운 반사, 믿을 수 있는 결합과 접촉 그림자를 사용하고 금속, 유리, 거울 광택, 녹은 덩어리, 과도한 CGI를 피합니다.
 - **자유롭지만 근거 있는 배치:** 원본 방향과 무게가 편심, 가장자리, 필요한 크롭을 결정합니다.
 - **모듈형 글자:** 대상 언어의 글자를 실루엣, 받침, 이음새, 모듈 리듬과 여백에 통합합니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090724386001015097) · 2026-08-21<br>
-> GPT2 x 乐高 x 转绘 x 美学提示词 x VOL.035
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090724386001015097"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 035 예시 1"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090724386001015097">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 035의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 
