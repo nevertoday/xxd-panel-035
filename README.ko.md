@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 035
+# 🦁 XXD Panel 035｜블록 재구성
 
 ### 사진을 선명하고 고급스러운 하나의 복셀 블록 컬렉터블로
 

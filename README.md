@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 035
+# 🦁 XXD Panel 035｜积木重构
 
 ### 把照片重构成一件明艳、可识别的高级像素积木收藏品
 
