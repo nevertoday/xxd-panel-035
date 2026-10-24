@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 035｜Building-Block Reconstruction: rebuilds the photo's subject as a single LEGO / Minecraft-style voxel-block collectible — blocky proportions, a clean silhouette and visible module layers in matte ABS plastic with seams and soft contact shadows, in bright saturated brick colours (red, yellow, blue, green, orange, purple) drawn from the photo — set on a plain, much lighter background with only a small base or shadow. A short title and a few tags in pixel or instruction-manual style type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-035 or asks for LEGO, voxel, pixel-block or toy-collectible reconstruction from a photo.",
+  "short_description": "积木重构：把照片主体搭成一件明艳、可识别的哑光像素积木收藏品",
+  "zh-CN": {
+    "name": "积木重构",
+    "tagline": "把照片主体搭成一件明艳、一眼能认出来的像素积木收藏品。",
+    "look": "照片主体被重新拼搭成乐高或 Minecraft 式的体素积木：方块化的比例、清楚的剪影、一层层的模块，最有特点的部位稍作夸张，但不强行拟人。材质是哑光 ABS 塑料，块与块之间有拼缝和柔和接触阴影；颜色从照片出发，变成鲜红、亮黄、纯蓝、鲜绿这类饱满干净的积木色。背景是更浅的大面积纯色，只有一小块底座或阴影托住主体，再配一个简短标题和几枚像素或说明书式的小标签。",
+    "traits": ["像素积木", "哑光 ABS", "明艳色", "单一主体", "收藏品"],
+    "good": [
+      "外形简单、一个主体的照片：一只柴犬、一辆老爷车、一座灯塔、一盆仙人掌",
+      "颜色鲜明的物件或建筑：红色电话亭、黄色出租车、彩色小屋",
+      "想做成玩具感头像、收藏卡或桌面壁纸的照片"
+    ],
+    "poor": [
+      "依靠细腻纹理或柔和渐变才好看的照片：薄纱、烟雾、水面倒影",
+      "人很多或场景很满的照片，这套风格只搭一个主体，不铺完整场景",
+      "想要低饱和、莫兰迪色、粉彩色或复杂游戏场景的效果"
+    ]
+  },
+  "en": {
+    "name": "Building-Block Reconstruction",
+    "tagline": "Rebuilds the subject of your photo as one bright, instantly recognisable voxel-block collectible.",
+    "look": "The subject is rebuilt in LEGO or Minecraft-style voxel blocks: blocky proportions, a clean silhouette and visible module layers, with its most distinctive part slightly exaggerated but never forced into a cartoon character. The surface is matte ABS plastic with seams between bricks and soft contact shadows, and the colours start from the photo and become full, clean brick colours such as bright red, yellow, pure blue and green. The background is a wide, lighter plain colour with only a small base or shadow under the model, plus a short title and a few pixel or instruction-manual style tags.",
+    "traits": ["Voxel blocks", "Matte ABS", "Bright colour", "Single subject", "Collectible"],
+    "good": [
+      "Photos of one subject with a simple shape: a Shiba Inu, a vintage car, a lighthouse, a potted cactus",
+      "Brightly coloured objects or buildings: a red phone box, a yellow taxi, a painted cottage",
+      "Photos you want as a toy-like avatar, a collector card or a desktop wallpaper"
+    ],
+    "poor": [
+      "Photos that rely on fine texture or soft gradients: sheer fabric, smoke, reflections on water",
+      "Crowded or busy scenes, since the style builds one subject rather than a whole scene",
+      "Requests for muted, Morandi, pastel tones or a detailed game-world scene"
+    ]
+  },
+  "ja": {
+    "name": "ブロック再構築",
+    "tagline": "写真の主役を、鮮やかで一目でわかるボクセルブロックのコレクティブルに組み直します。",
+    "look": "主役を LEGO や Minecraft 風のボクセルブロックで組み直します。角ばった比率、すっきりしたシルエット、層になったモジュールで形をつくり、いちばんの特徴は少し強調しますが、無理に擬人化はしません。素材はつや消しの ABS 樹脂で、ブロックの継ぎ目と柔らかい接地影が見えます。色は写真から出発し、鮮やかな赤、明るい黄、純粋な青、緑のような、澄んで満ちたブロックの色になります。背景はより淡い広い無地で、小さな台座か影だけが主役を支え、短いタイトルとピクセル風や組立説明書風の小さなタグを添えます。",
+    "traits": ["ボクセルブロック", "つや消し ABS", "鮮やかな色", "単一の主役", "コレクティブル"],
+    "good": [
+      "形がシンプルな主役が一つの写真：柴犬、クラシックカー、灯台、サボテンの鉢",
+      "色のはっきりした物や建物：赤い電話ボックス、黄色いタクシー、色とりどりの小屋",
+      "おもちゃ風のアイコン、コレクションカード、デスクトップ壁紙にしたい写真"
+    ],
+    "poor": [
+      "繊細な質感や柔らかいグラデーションが魅力の写真：薄い布、煙、水面の映り込み",
+      "人が多い写真や場面が詰まった写真（このスタイルは主役一つだけを組み、場面全体は再現しません）",
+      "低彩度、モランディ色、パステル調、複雑なゲーム風景を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "블록 재구성",
+    "tagline": "사진의 주인공을 선명하고 한눈에 알아볼 수 있는 복셀 블록 컬렉터블로 다시 조립합니다.",
+    "look": "주인공을 레고나 마인크래프트 같은 복셀 블록으로 다시 쌓습니다. 각진 비율, 깔끔한 실루엣, 층층이 쌓인 모듈로 형태를 만들고 가장 특징적인 부분은 살짝 과장하지만 억지로 의인화하지는 않습니다. 재질은 무광 ABS 플라스틱으로 블록 사이 이음새와 부드러운 접지 그림자가 보입니다. 색은 사진에서 출발해 선명한 빨강, 밝은 노랑, 순수한 파랑, 초록처럼 꽉 차고 깨끗한 블록 색이 됩니다. 배경은 더 연한 넓은 단색이고 작은 받침이나 그림자만 주인공을 받치며, 짧은 제목과 픽셀풍이나 조립 설명서풍의 작은 태그를 곁들입니다.",
+    "traits": ["복셀 블록", "무광 ABS", "선명한 색", "단일 주인공", "컬렉터블"],
+    "good": [
+      "형태가 단순한 주인공 하나가 있는 사진: 시바견, 클래식 자동차, 등대, 선인장 화분",
+      "색이 뚜렷한 사물이나 건물: 빨간 공중전화 부스, 노란 택시, 알록달록한 작은 집",
+      "장난감 같은 프로필 사진, 수집 카드, 바탕화면으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "섬세한 질감이나 부드러운 그라데이션이 매력인 사진: 얇은 천, 연기, 물에 비친 반영",
+      "사람이 많거나 장면이 꽉 찬 사진(이 스타일은 주인공 하나만 쌓고 장면 전체를 만들지 않습니다)",
+      "저채도, 모란디 색, 파스텔 톤, 복잡한 게임 장면을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "إعادة بناء المكعبات",
+    "tagline": "يعيد بناء موضوع صورتك قطعةً واحدة زاهية من مكعبات فوكسل تُعرف من النظرة الأولى.",
+    "look": "يُعاد بناء الموضوع بمكعبات فوكسل على طريقة ليغو أو ماينكرافت: نِسب مكعبة وظل واضح ووحدات متراكبة طبقة فوق طبقة، مع مبالغة خفيفة في أبرز سماته دون تحويله قسراً إلى شخصية كرتونية. السطح بلاستيك ABS غير لامع تظهر فيه الفواصل بين القطع وظلال تلامس ناعمة، وتنطلق الألوان من الصورة لتصبح ألوان مكعبات ممتلئة ونظيفة مثل الأحمر الساطع والأصفر والأزرق الصافي والأخضر. الخلفية لون سادة أفتح وواسع، ولا يحمل المجسم إلا قاعدة صغيرة أو ظل، مع عنوان قصير ووسوم صغيرة بأسلوب البكسل أو كتيّب التركيب.",
+    "traits": ["مكعبات فوكسل", "ABS غير لامع", "ألوان زاهية", "موضوع واحد", "قطعة للاقتناء"],
+    "good": [
+      "صور فيها موضوع واحد بشكل بسيط: كلب شيبا، سيارة كلاسيكية، منارة، صبّار في أصيص",
+      "أشياء أو مبانٍ بألوان واضحة: كشك هاتف أحمر، سيارة أجرة صفراء، كوخ ملوّن",
+      "صور تريدها صورة شخصية بطابع الألعاب أو بطاقة للاقتناء أو خلفية لسطح المكتب"
+    ],
+    "poor": [
+      "صور يعتمد جمالها على ملمس دقيق أو تدرجات ناعمة: قماش شفاف، دخان، انعكاسات على الماء",
+      "مشاهد مزدحمة أو ممتلئة، لأن الأسلوب يبني موضوعاً واحداً لا مشهداً كاملاً",
+      "طلب ألوان باهتة أو موراندي أو باستيل أو مشهد ألعاب معقد"
+    ]
+  }
+}
